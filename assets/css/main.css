@@ -1928,7 +1928,7 @@ button,
   -webkit-transition: margin-left 0.5s ease, box-shadow 0.5s ease;
   -ms-transition: margin-left 0.5s ease, box-shadow 0.5s ease;
   transition: margin-left 0.5s ease, box-shadow 0.5s ease;
-  background-color: #f5f6f7;
+  background-color: #BAE7F4; /*cor menu lateral*/
   font-size: 0.9em;
   position: relative;
   width: 26em; }
@@ -1949,7 +1949,7 @@ button,
         margin-bottom: 0;
         padding-bottom: 0; }
     #sidebar > .inner > .alt {
-      background-color: #A2E6FB; /*cor parte de cima menu*/
+      background-color: #BAE7F4; /*cor parte de cima menu*/
       border-bottom: 0;
       margin: -2.22222em 0 4.44444em -2.22222em;
       padding: 2.22222em;
